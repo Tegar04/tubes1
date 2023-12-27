@@ -130,5 +130,3 @@ public class GenerateRandomWordsFX extends Application {
         }
     }
 }
-
-// AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
